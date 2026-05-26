@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ideamagix-backend
+    env: java
+    buildCommand: mvn clean package -DskipTests
+    startCommand: java -jar target/your-app.jar
