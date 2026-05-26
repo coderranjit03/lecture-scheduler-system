@@ -28,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/ideamagix/service/InstructorService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/ideamagix/service/LectureService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/ideamagix/backend/BackendApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
